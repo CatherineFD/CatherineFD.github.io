@@ -4,6 +4,7 @@
   "display": "standalone",
   "background": {
     "scripts": ["service-worker.js", "ak-push.js"],
-    "service_worker": "service-worker.js"
+    "service_worker": "service-worker.js",
+    "persistent": true
   }
 }
