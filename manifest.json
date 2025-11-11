@@ -3,7 +3,6 @@
   "name": "https://catherinefd.github.io",
   "display": "standalone",
   "background": {
-    "scripts": ["service-worker.js", "ak-push.js"],
-    "service_worker": "service-worker.js"
+    "scripts": ["service-worker.js", "ak-push.js"]
   }
 }
