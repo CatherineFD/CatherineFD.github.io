@@ -1,5 +1,5 @@
 {
-  "permissions": [ "activeTab", "background" ],
+  "permissions": [ "activeTab" ],
   "name": "https://catherinefd.github.io",
   "display": "standalone",
   "background": {
